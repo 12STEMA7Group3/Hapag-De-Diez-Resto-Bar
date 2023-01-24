@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+ <html>
+  <head>
+ <style>
+  h5 {
+  word-spacing: 7px;
+}
+.button {
+  background-color: #e3e3e3; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: #e3e3e3; 
+  border: 3px solid #e3e3e3;
+  width: 23%;
+  border-radius: 15%;
+  margin: 30px 0px 0px 0px
+}
+.button1:hover 
+{
+  background-color: #0f0f0f;
+ color: white;
+}
+.button2 {
+  background-color: white; 
+  color: #e3e3e3; 
+  border: 3px solid #e3e3e3;
+  width: 23%;
+  border-radius: 15%;
+  margin: 30px 0px 0px 0px
+}
+.button2:hover 
+{
+  background-color: #0f0f0f;
+  color: white;
+}
+
+</style>
+ <script src="https://kit.fontawesome.com/35626593a5.js" crossorigin="anonymous"></script>
+   <title>Hapag de Diez Resto Bar</title>
+ <link rel="icon" href="Logos/Logo.png" type="image/icon">
+
+    </head>
+     
+	 <body style="background: url(https://www.nps.gov/juba/blogs/images/1_night_sky_beach.jpg);background-repeat:no-repeat;background-attachment:fixed;;background-size:100% 100%">
+        <ElementName scrolling="auto" >.....</ElementName>
+	  
+	   <h5 style="text-align:center;font-family:Colonna MT;font-size:210%;color:#e3e3e3;"><i><span class="fas fa-coffee fa-flip-horizontal"></span> <i> Hapag de Diez Resto Bar </i><span class="fas fa-coffee"></span></h5>
+	   
+	   <p style="line-height:1px;text-align:center;font-family:Colonna MT;font-size:175%;color:#e3e3e3;"> "Ikaw ay magiging Feliz sa Diez" </p>
+		
+	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/MENU/Breakfast.html"><button class="button button1"><span class="fas fa-utensils fas fa-flip-horizontal"></span> BREAKFAST <span class="fas fa-utensils"></span></a></h2>
+	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/MENU/Lunch.html"><button class="button button2"><span class="fas fa-utensils fas fa-flip-horizontal"></span> LUNCH <span class="fas fa-utensils"></span></a></h2>
+	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/MENU/Dinner.html"><button class="button button2"><span class="fas fa-utensils fas fa-flip-horizontal"></span> DINNER <span class="fas fa-utensils"></span></a></h2>
+	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/MENU/DESSERT.html"><button class="button button2"><span class="fas fa-ice-cream"></span> DESSERT <span class="fas fa-ice-cream"></span></a></h2> 					  
+	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/MENU/DRINKS.html"><button class="button button2"><span class="fas fa-glass-cheers"></span> DRINKS <span class="fas fa-glass-cheers"></span></a></h2>	                	
+	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/Checkout.html"><button class="button button2"><span class="fas fa-check-circle"></span> CHECKOUT <span class="fas fa-check-circle"></span></a></h2>	
+ 	 <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/About/About.html"><button class="button button2"><span class="fas fa-question-circle"></span>  ABOUT <span class="fas fa-question-circle"></span></a></h2>
+     <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/HTML/DEVELOPERS/DEV TEAM.html"><button class="button button1"><span class="fas fa-pen fas fa-flip-horizontal"></span> DEV TEAM <span class="fas fa-pen"></span></a></h2>
+
+
+</body>
+</html>

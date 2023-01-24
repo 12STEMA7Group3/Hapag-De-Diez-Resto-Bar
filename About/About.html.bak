@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+ <html>
+  <head>
+ <style>
+  h5 {
+  word-spacing: 7px;
+}
+.button {
+  background-color: white; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: #e3e3e3; 
+  border: 3px solid #e3e3e3;
+  width: 23%;
+  border-radius: 15%;
+  margin: 100px 0px 0px 0px
+}
+.button1:hover 
+{
+  background-color: #0f0f0f;
+  color: #e3e3e3;
+}
+</style>
+<script src="https://kit.fontawesome.com/35626593a5.js" crossorigin="anonymous"></script>
+   <title>Hapag de Diez Resto Bar</title>
+   <link rel="icon" href="Logos/Logo.png" type="image/icon">
+    </head>
+     
+	 <body style="background: url(https://www.nps.gov/juba/blogs/images/1_night_sky_beach.jpg);background-repeat:no-repeat;background-attachment:fixed;;background-size:100% 100%">
+        <ElementName scrolling="auto" >.....</ElementName>
+	  
+	   <h5 style="text-align:center;font-family:Colonna MT;font-size:210%;color:#e3e3e3;"><i><span class="fas fa-coffee fa-flip-horizontal"></span> <i> Hapag de Diez Resto Bar </i><span class="fas fa-coffee"></span></h5>
+	   
+	   <p style="line-height:1px;text-align:center;font-family:Colonna MT;font-size:175%;color:#e3e3e3;"> "Ikaw ay magiging Feliz sa Diez" </p>
+	  <br><br> <p style="line-height:1px;text-align:center;font-family:Verdana;font-size:100%;color:#e3e3e3;"><strong> Our resto bar focuses on food and drinks that will surely give you satisfaction in every way! </strong></p>
+	  <br><br>  <p style="line-height:1px;text-align:center;font-family:Verdana;font-size:100%;color:#e3e3e3;"><strong> We have a selection of famous Filipino dishes and drinks with</strong></p>
+	    <br><br>  <p style="line-height:1px;text-align:center;font-family:Verdana;font-size:100%;color:#e3e3e3;"><strong> a little touch of foreign food so everyone can have a lot of choices to choose from.</strong></p>
+	   <br><br> <p style="line-height:1px;text-align:center;font-family:Verdana;font-size:100%;color:#e3e3e3;"><strong>  What are you waiting for? Order now!</strong></p>
+	   
+	   <h2 style="font-family:Colonna MT;color:white;margin-left:15px;font-size:175%;text-align:center;">
+		<a href="C:/Users/Angel Ragudos/Documents/Group4_STEMB3/MAIN_PAGE.html"><button class="button button1"> ->BACK TO MAIN PAGE<- </a></h2>
+	   
+</body>
+</html

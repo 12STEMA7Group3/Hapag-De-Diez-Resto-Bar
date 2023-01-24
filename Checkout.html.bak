@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    select {
+        width: 150px;
+        margin: 10px;
+		height: 30px;
+		border-radius: 16%;
+		background-color: #654321;
+		border: 2px solid gray;
+    }
+    select:focus {
+        min-width: 300px;
+        width: auto;
+    }    
+	select:hover 
+    {
+    background-color: black;
+    color: white;
+    }
+	input {
+	    width: 150px;
+        margin: 10px;
+		height: 25px;
+		border-radius: 16%;
+		background-color: #654321;
+		border: 2px solid gray;
+		text-align:center;
+	}
+	input:hover 
+    {
+    background-color: black;
+    color: white;
+	}
+	.button {
+    background-color: #654321; 
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 2px 4px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    }
+
+    .button1 {
+    background-color: #654321; 
+    color: #e3e3e3; 
+    border: 2px solid gray;
+    width: 10%;
+    border-radius: 20%;
+    margin: 15px 0px 0px 0px
+    }
+    .button1:hover 
+    {
+    background-color: black;
+    color: white;
+    }
+	.button2 {
+    background-color: #654321; 
+    color: #e3e3e3; 
+    border: 2px solid gray;
+    width: 10%;
+    border-radius: 20%;
+    margin: 15px 0px 0px 0px
+    }
+    .button2:hover 
+    {
+    background-color: black;
+    color: white;
+    }
+</style>
+<script src="https://kit.fontawesome.com/35626593a5.js" crossorigin="anonymous"></script>
+   <title>Checkout</title>
+   <link rel="icon" href="Logos/Logo.png" type="image/icon">
+</head>
+     
+	 <body style="background: url(https://i.pinimg.com/564x/9d/28/1a/9d281aca27e62aaa022bde0341c43464.jpg);background-repeat:no-repeat;background-attachment:fixed;;background-size:100% 100%">
+        <ElementName scrolling="auto" >.....</ElementName>
+     <h5 style="text-align:center;font-family:Colonna MT;font-size:200%;color:white;"><span> CHECKOUT </span></h5>
+
+<form>
+  <p for="fname" style="font-family:Bodoni MT;color:white;font-size:150%;text-align:center;">First Name:<input type="text" id="fname" name="fname" style="color:white;"></p>
+  <p for="lname" style="font-family:Bodoni MT;color:white;font-size:150%;text-align:center;">Last Name:<input type="text" id="lname" name="lname" style="color:white;"></p>
+</form>
+<br>
+    <form style="text-align:center;">
+        <select style="color:white;">
+            <option> CHAMPORADO | Php250 </option>
+            <option> PANDESAL | Php10/piece </option>
+            <option> BIBINGKA | Php550 </option>
+            <option> DAINGSILOG | Php280 </option>
+            <option> BULALO | Php1250 </option>
+			<option> SINIGANG NA BABOY | Php1000 </option>
+			<option> SISIG | Php1500 </option>
+			<option> SHABU-SHABU | Php2000 </option>
+			<option> T-BONE STEAK | Php2500 </option>
+			<option> BACON-WRAPPED PORK TENDERLOIN | Php3000 </option>
+			<option> PINAKBET | Php600 </option>
+			<option> CRISPY PATA | Php350</option>
+			<option> HALO-HALO | Php2500 </option>
+			<option> LECHE-FLAN | Php3000 </option>
+			<option> BANANA WITH CARAMEL SAUCE | Php600 </option>
+			<option> BANANA SPLIT | Php350</option>
+        </select>
+		<select style="margin: 0px 0px 0px 20px;color:white;">
+            <option> BUKO JUICE | Php25</option>
+            <option> BOTTOMLESS ICED-TEA | Php30</option>
+            <option> BEER | Php400</option>
+            <option> HARD LAMBANOG |Php350</option>
+        </select>
+    </form>
+<br><br>
+<p style="font-family:Colonna MT;color:white;margin-left:15px;font-size:%;text-align:center;">
+ <a href="C:/Users/Angel Ragudos/Documents/HTML/Thank you.html"><button class="button button1">PLACE ORDER</button></a></p>
+  
+  <p style="font-family:Colonna MT;color:white;margin-left:15px;font-size:%;text-align:center;">
+ <a href="C:/Users/Angel Ragudos/Documents/HTML/MENU/DRINKS.html"><button class="button button1">< - BACK</button></a></p>
+</body>
+</html>
